@@ -1,4 +1,4 @@
-# SpringBootProjs
+# SpringBootProj - postman-->SpringAppln-->OracleDB
 Spring Boot java application - developed on eclipse with built in apache tomcat.
 Has pom.xml for maven dependencies and application.properties for configuration details.
 The application is connected with Oracle database.The application.properties files has oracle 11g configs.
